@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 1420px;
+    margin: auto;
+}
+#logo{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px
+}
+
+#navber{
+    text-align: center;
+    padding: 20px;
+}
+#navber ul li{
+    list-style: none;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#navber li a{
+    color: #a52a2a;
+    font-size: 20px;
+}
+
+#contact-section input{
+    width: 100%;
+    padding: 10px 15px;
+}
